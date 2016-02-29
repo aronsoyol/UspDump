@@ -80,7 +80,7 @@
     <ClCompile Include="DataGen.cpp" />
     <ClCompile Include="FileVersionInfo.cpp" />
     <ClCompile Include="langname.cpp" />
-    <ClCompile Include="UspTest.cpp" />
+    <ClCompile Include="UspDump.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataGen.h" />

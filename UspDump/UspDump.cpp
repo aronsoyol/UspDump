@@ -12,6 +12,7 @@
 //LONG_MAX
 
 void GenUsp10DllData();
+
 int main(int argc, WCHAR* argv[])
 {
 //	TextDocument doc;
